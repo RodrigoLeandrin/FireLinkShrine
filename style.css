@@ -1,0 +1,21 @@
+.tittle{
+    display: flex;
+    margin: auto;
+    padding: 0;
+    color: aliceblue;
+    background-color: #695442;
+    width: 100%;
+    justify-content: center;
+}
+
+body{
+    background-color: black;
+}
+
+.section1{
+
+    width: 50%;
+    float: right;
+    margin-top: 60px;
+
+}
